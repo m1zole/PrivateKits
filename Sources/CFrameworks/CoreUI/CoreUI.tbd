@@ -1,7 +1,7 @@
 --- !tapi-tbd
 tbd-version:     4
 targets:         [ arm64-ios, arm64e-ios ]
-install-name:    '/System/Library/PrivateFrameworks/CoreUI.framework/Versions/A/CoreUI'
+install-name:    '/System/Library/PrivateFrameworks/CoreUI.framework/CoreUI'
 current-version: 865.1
 exports:
   - targets:         [ arm64-ios, arm64e-ios ]
